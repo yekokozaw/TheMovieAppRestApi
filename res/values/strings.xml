@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TheMovieApp</string>
+    <string name="lbl_search">Search</string>
+    <string name="lbl_best_popular_films_and_serials">BEST POPULAR FILMS AND SERIALS</string>
+    <string name="lbl_the_wolverine_2013_official_review">The Wolverine 2013\nOfficial Review</string>
+    <string name="lbl_see_more"><u>SEE MORE</u></string>
+    <string name="lbl_check_movie_n_show_times">Check Movie\n Show Times</string>
+    <string name="lbl_more_showcases"><u>MORE SHOWCASES</u></string>
+    <string name="lbl_showcases">SHOWCASES</string>
+    <string name="lbl_more_actors"><u>MORE ACTORS</u></string>
+    <string name="lbl_best_actors">BEST ACTORS</string>
+    <string name="lbl_fantastic_beasts_and_to_find_them">Fantastic Beasts And Where To Find Them</string>
+    <string name="lbl_storyline">STORYLINE</string>
+    <string name="lbl_storyline_overview">The character appeared in the last panel of The Incredible Hulk #180 before having a larger role in #181 (cover-dated November 1974). art director John Romita Sr. Romita designed the character\'s costume, but the character was first drawn for publication by Herb Trimpe. Wolverine then joined a revamped version of the superhero team the X-Men, where eventually writer Chris Claremont, artist Dave Cockrum, and artist-writer John Byrne would play significant roles in the character\'s development. Artist Frank Miller collaborated with Claremont and helped revise the character with a four-part eponymous limited series from September to December 1982, which debuted Wolverine\'s catchphrase,</string>
+    <string name="lbl_rate_movie">RATE MOVIE</string>
+    <string name="lbl_actors">Actors</string>
+    <string name="lbl_creators">Creators</string>
+    <string name="lbl_more_creators">MORE CREATORS</string>
+    <string name="lbl_type">Type:</string>
+    <string name="lbl_fantasay_family">Fantasay , Family</string>
+    <string name="lbl_38876_votes">38876 votes</string>
+    <string name="lbl_united_kingdom">United Kingdom</string>
+    <string name="lbl_production">Production:</string>
+    <string name="lbl_premier">Premier</string>
+    <string name="lbl_please_enter_movie_name">Please enter movie name</string>
+</resources>
